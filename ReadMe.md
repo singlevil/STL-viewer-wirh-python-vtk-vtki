@@ -1,5 +1,5 @@
-envirnment:
-  Win10_X64
+#envirnment:
+##Win10_X64
     Python 3.6 64bit
         package：
           appdirs          1.4.3
